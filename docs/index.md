@@ -6,6 +6,6 @@ filename: index.md
 
 # Drone Environment Documentation
 
-[Drone Environment Details](<Drone-Environment-Details.md>)
+[Drone Environment Details](Drone-Environment-Details.md)
 
-[WebSocket Details](<WebSocket-Details.md>)
+[WebSocket Details](WebSocket-Details.md)
