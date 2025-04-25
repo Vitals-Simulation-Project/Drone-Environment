@@ -1,3 +1,9 @@
+---
+title: WebSocket Details
+layout: template
+filename: WebSocket Details.md
+--- 
+
 # **WebSocket Details**
 
 
