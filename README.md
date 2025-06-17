@@ -5,3 +5,5 @@
 > Azure DevOps requires you to sign in with a Microsoft Account in order to view and interact with the repository.
 
 This repository contains the Unreal Engine project files associated with the VITALS Simulation Project. This includes the landscape map and UI components.
+
+Alternatively, download the latest build of Drone-Environment from the [Releases](https://github.com/Vitals-Simulation-Project/Drone-Environment/releases/tag/Latest) section.
